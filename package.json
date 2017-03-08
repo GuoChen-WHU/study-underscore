@@ -1,0 +1,21 @@
+{
+  "name": "study-underscore",
+  "version": "1.0.0",
+  "description": "Study underscore",
+  "main": "underscore.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "eslint": "eslint underscore.js test/*.js"
+  },
+  "keywords": [
+    "underscore"
+  ],
+  "author": "Guo Chen",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "qunitjs": "^2.1.1"
+  }
+}
